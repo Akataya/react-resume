@@ -1,0 +1,116 @@
+{
+	"name": "Aiya Akatayeva",
+	"email": "infotechpro@yahoo.com",
+	"phone": "+1 (917) 480-8976",
+	"image": "assets/images/nerd_cat.jpg",
+	"github": "github.com/Akataya",
+	"linkedin": "linkedin.com/in/aiya-akatayeva-3091a1173/",
+	"summary": "Self-motivated quick learner with remote end-user IT support experience and a passion for web development. I’m seeking a full-time Python / React Web Developer position in a New York City-based company. I work effectively in a fast-paced, high volume, deadline-driven environment, as well as have excellent teamwork and communication skills.",
+	"experience" : [
+		{
+			"title" : "Remote IT Support Specialist",
+			"period": "2016 - Present",
+			"company": "Demonstrated Tech, New York",
+			"duties": [
+					"Remotely troubleshoot and maintain hardware (desktops, laptops, printers) and software (Windows, MS Office, Adobe, iOS) for over 300 employees.",
+					"Test, implement and maintain over 200 devices via remote Mobile Device Management and Endpoint Encryption systems.",
+					"Create instructional manuals for end users and IT support employees.",
+					"Create BYOD, mobile device security and laptop security policies.",
+					"Set up and maintain Active Directory, email (Exchange | Office 365) and Cisco UCM profiles for new employees.",
+					"Set up monthly phishing training campaigns for over 100 users in KnowBe4.",
+					"Participate in PCI DSS and HiTrust certification projects for enterprise clients."
+			]
+		},
+		{
+			"title" : "Sales and Customer Service Representative",
+			"period": "2014 - 2016",
+			"company": "Olympus Moving & Storage, New York",
+			"duties": [
+				"Spoke to over 50 clients a day providing excellent customer service.",
+				"Calculated cost based on customer inventory.",
+				"Executed detailed documentation of all activities performed from start to end of each sale.",
+				"Collaborated closely with team members to identify ways of improving performance.",
+				"Trained 5 new employees."
+			]
+		}
+	],
+	"projects": [
+		{
+			"name":"Velocity",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"DevStudio",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"Tempo",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"Atom",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		},
+		{
+			"name":"Delta",
+			"url": "http://programmingbuddy.club",
+			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+		}
+	],
+	"skills": [
+		{
+			"name": "Python & Django",
+			"percent": "70%"
+		},
+		{
+			"name": "Javascript & React.js",
+			"percent": "70%"
+		},
+		{
+			"name": "HTML5 & CSS",
+			"percent": "99%"
+		},
+		{
+			"name": "Object Oriented Programming",
+			"percent": "70%"
+		},
+		{
+			"name": "Test Driven Development",
+			"percent": "70%"
+		}
+	],
+	"education": [
+		{
+			"degree": "MIT in IT Project Management",
+			"university": "American InterContinental Univerity",
+			"period": "2019"
+		},
+		{
+			"degree": "B.S. in Information Technology (Digital Forensics track)",
+			"university": "American InterContinental Univerity",
+			"period": "2016"
+		}
+	],
+	"languages": [
+		{
+			"name":"English",
+			"details": "Fluent"
+		},
+		{
+			"name":"Russian",
+			"details": "Fluent"
+		},
+		{
+			"name":"Kazakh",
+			"details": "Native"
+		}
+	],
+	"interests": [
+		"Coding",
+		"Languages"
+	]
+}
